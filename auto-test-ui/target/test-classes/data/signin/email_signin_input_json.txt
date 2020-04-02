@@ -1,0 +1,7 @@
+{"email":"","imageCode":"123","phoneCode":"888888"}
+{"email":"18201422725@163.com","imageCode":"","phoneCode":"888888"}
+{"email":"","imageCode":"","phoneCode":"888888"}
+{"email":"18201422725@163.com","imageCode":"123","phoneCode":"888888"}
+{"email":"18201422725@163.com123","imageCode":"6666","phoneCode":"888888"}
+{"email":"18201422725@163.com","imageCode":"6666","phoneCode":""}
+{"email":"18201422725@163.com","imageCode":"6666","phoneCode":"123456"}
